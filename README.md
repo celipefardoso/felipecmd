@@ -1,6 +1,6 @@
 ## Opa, seja bem-vindo ao meu perfil no GitHub. 👋
 ### Meu nome é Felipe, tenho 19 anos e atualmente estou cursando Big Data no Agronegócio, na Fatec Shunji Nishimura, em Pompeia-SP.
-<img width="200px" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=1920&auto=webp&s=cfc8e275c41926cf002775fb17c19acecaa27c5e" />
+<img width=100% src="https://preview.redd.it/bpxxqqvps4h91.gif?width=1920&auto=webp&s=cfc8e275c41926cf002775fb17c19acecaa27c5e" />
 ========================================================================================
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliepmarinscardoso&show_icons=true&theme=dracula"/>
@@ -12,7 +12,7 @@
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-========================================================================================
+======================================================================================== 
 ### Linguagens de programação:
 
 <div>
