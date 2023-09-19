@@ -24,22 +24,24 @@
 
 <br>
 
-### Linguagens de programação:
+### Front-end
 
 <div>
-  <img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align=center height=50 widht=50 src="https://img.icons8.com/color/256/mysql-logo.png" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
 </div>
 
-### Ferramentas/Tecnologias:
+<br>
+
+### Back-end
 
 <div>
-  <img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <a href="https://nodejs.org/en/about"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"" /></a>
+  <a href="https://expressjs.com/"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
+  <a href="https://dev.mysql.com/doc/"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://www.python.org/about/"><img align=center height=45 widht=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  <a href="https://flask.palletsprojects.com/en/2.3.x/"><img align=center height=45 widht=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E3433D&height=120&section=footer"/>
