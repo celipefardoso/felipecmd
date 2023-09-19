@@ -42,6 +42,7 @@
   <a href="https://dev.mysql.com/doc/"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
   <a href="https://www.python.org/about/"><img align=center height=45 widht=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="https://flask.palletsprojects.com/en/2.3.x/"><img align=center height=45 widht=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img align=center height=45 widht=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E3433D&height=120&section=footer"/>
