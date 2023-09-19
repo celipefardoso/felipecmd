@@ -1,5 +1,6 @@
 ## Opa, seja bem-vindo ao meu perfil no GitHub. 👋
-### Meu nome é Felipe, tenho 20 anos e atualmente estudo Big Data no Agronegócio na Fatec Shunji Nishimura, localizada em Pompéia, São Paulo. Sempre tive grande interesse por tecnologia, mas foi na faculdade que descobri o mundo da programação. Até agora, concentrei meus estudos principalmente no desenvolvimento back-end. Além disso, tenho uma base em HTML e CSS.
+### Meu nome é Felipe, tenho 20 anos e atualmente estou cursando Big Data no Agronegócio na Fatec Shunji Nishimura, localizada em Pompéia, São Paulo. 
+### Sempre tive grande interesse por tecnologia, mas foi na faculdade que descobri o mundo da programação. Até agora, concentrei meus estudos principalmente no desenvolvimento back-end. Além disso, tenho uma base em HTML e CSS.
 
 Agora, estou empolgado em expandir minhas habilidades na área de front-end, especialmente trabalhando com frameworks como Angular e React.
 <img width=100% src="https://preview.redd.it/bpxxqqvps4h91.gif?width=1920&auto=webp&s=cfc8e275c41926cf002775fb17c19acecaa27c5e" />
