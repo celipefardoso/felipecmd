@@ -2,7 +2,7 @@
 ### Meu nome é Felipe, tenho 20 anos e atualmente estou cursando Big Data no Agronegócio, na Fatec Shunji Nishimura, em Pompéia-SP.
 <img width=100% src="https://preview.redd.it/bpxxqqvps4h91.gif?width=1920&auto=webp&s=cfc8e275c41926cf002775fb17c19acecaa27c5e" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9500FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD00FF&height=120&section=header"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=feliepmarinscardoso&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
@@ -37,4 +37,4 @@
   <img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9500FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD00FF&height=120&section=footer"/>
