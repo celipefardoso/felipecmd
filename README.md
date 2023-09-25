@@ -40,7 +40,7 @@
   <a href="https://nodejs.org/en/about"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"" /></a>
   <a href="https://expressjs.com/"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
   <a href="https://dev.mysql.com/doc/"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-  <a href="https://www.mongodb.com/docs/><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+  <a href="https://www.mongodb.com/docs/"><img align=center height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
   <a href="https://www.python.org/about/"><img align=center height=45 widht=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="https://flask.palletsprojects.com/en/2.3.x/"><img align=center height=45 widht=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a>
   <a href="https://fastapi.tiangolo.com/"><img align=center height=45 widht=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></a>
