@@ -37,7 +37,7 @@
 <h3>Back-end</h3>
 
 <div>
-  <a href="https://nodejs.org/en/about"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"" /></a>
+  <a href="https://nodejs.org/en/about"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   <a href="https://expressjs.com/"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
   <a href="https://dev.mysql.com/doc/"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
   <a href="https://www.mongodb.com/docs/"><img align=center height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
