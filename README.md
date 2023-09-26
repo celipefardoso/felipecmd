@@ -24,7 +24,7 @@
 
 <br>
 
-### Front-end
+<h3>Front-end</h3>
 
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
@@ -34,7 +34,7 @@
 
 <br>
 
-### Back-end
+<h3>Back-end</h3>
 
 <div>
   <a href="https://nodejs.org/en/about"><img align=center height=40 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"" /></a>
