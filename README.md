@@ -1,3 +1,5 @@
+<body style="background-color: white;">
+
 <img width=100% src="https://preview.redd.it/bpxxqqvps4h91.gif?width=1920&auto=webp&s=cfc8e275c41926cf002775fb17c19acecaa27c5e" />
 
 <div>
@@ -11,8 +13,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E3433D&height=120&section=header"/>
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliepmarinscardoso&show_icons=true&count_private=true&hide_border=false&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliepmarinscardoso&layout=compact&hide_border=false&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecmd&show_icons=true&count_private=true&hide_border=false&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecmd&layout=compact&hide_border=false&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <br>
@@ -40,3 +42,5 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E3433D&height=120&section=footer"/>
+
+</body>
